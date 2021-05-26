@@ -1,7 +1,7 @@
 # The Résumé of Amelia Hoyt
 
 This repository contains my résumé (or curriculum vitae, as it's called in
-Europe). Click [here](https://github.com/alhoyt/resume/raw/master/main.pdf)
+Europe). Click [here](https://github.com/ALHoyt/resume/raw/main/main.pdf)
 to get the PDF of the latest build from GitHub.
 
 ## Build
