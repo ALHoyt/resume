@@ -1,7 +1,6 @@
 # The Résumé of Amelia Hoyt
 
-This repository contains my résumé (or curriculum vitae, as it's called in
-Europe). Click [here](https://github.com/ALHoyt/resume/raw/main/main.pdf)
+This repository contains my résumé written in LaTeX. Click [here](https://github.com/ALHoyt/resume/raw/main/main.pdf)
 to get the PDF of the latest build from GitHub.
 
 ## Build
@@ -13,4 +12,3 @@ $ git clone https://github.com/alhoyt/resume.git
 $ cd resume
 $ latexmk -pdf -pvc main
 ```
-
